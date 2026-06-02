@@ -1,0 +1,35 @@
+{
+  "Friend": {
+    "questions_asked": 4,
+    "subjects_covered": [
+      "Maths"
+    ],
+    "quiz_scores": [
+      10
+    ],
+    "total_points": 40,
+    "badges": [],
+    "history": [
+      {
+        "subject": "Maths",
+        "timestamp": "2026-06-02 12:41:27.311231",
+        "score": 0
+      },
+      {
+        "subject": "Maths",
+        "timestamp": "2026-06-02 12:53:05.990236",
+        "score": 10
+      },
+      {
+        "subject": "Maths",
+        "timestamp": "2026-06-02 12:59:43.796300",
+        "score": 0
+      },
+      {
+        "subject": "Maths",
+        "timestamp": "2026-06-02 13:00:30.122348",
+        "score": 0
+      }
+    ]
+  }
+}
