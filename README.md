@@ -25,7 +25,7 @@ An AI-powered personalized tutor designed specifically for slow learners. Built 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Tutor-Slowlearners.git
+git clone https://github.com/RENUKAA K/AI-Tutor-Slowlearners.git
 cd AI-Tutor-Slowlearners
 python -m venv venv
 venv\Scripts\activate
